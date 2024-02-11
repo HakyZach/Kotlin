@@ -1,32 +1,32 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+The purpose of this activity that I have given myself is to help broaden the amount of programming languages that I am familiar with.
 
-{Describe your purpose for writing this software.}
+The software that I have written in this is meant to be a demonstration of how to perform basic tasks using the Kotlin programming language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+
+[Software Demo Video](https://youtu.be/E7JKa771eqw)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+In order to complete this software I used Visual Studio Code with a few extensions, being Kotlin Language and Code Runner.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+These are a few of the websites that I visited to help in writing this software.
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Programiz](https://www.programiz.com/)
+- [In Kotlin](https://in-kotlin.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Potential improvements
 
-- Item 1
-- Item 2
-- Item 3
+- I wanted to go more into using functions but I kept running into errors that I was unable to resolve in my given time frame causing me to remove a lot of what I had worked on
+
+- I could probably go more in depth with the different kinds of number variables
+
+- commenting may need some work
